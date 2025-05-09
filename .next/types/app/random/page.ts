@@ -1,4 +1,4 @@
-// File: C:\Users\DELL\OneDrive\Desktop\quotes-app (1)\quotes-app\src\app\random\page.tsx
+// File: C:\Users\DELL\OneDrive\Desktop\quotes\src\app\random\page.tsx
 import * as entry from '../../../../src/app/random/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

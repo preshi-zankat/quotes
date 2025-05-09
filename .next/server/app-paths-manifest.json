@@ -1,5 +1,6 @@
 {
-  "/quote/[id]/page": "app/quote/[id]/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
   "/random/page": "app/random/page.js",
-  "/page": "app/page.js"
+  "/quote/[id]/page": "app/quote/[id]/page.js"
 }
