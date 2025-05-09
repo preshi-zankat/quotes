@@ -1,0 +1,5 @@
+{
+  "/quote/[id]/page": "app/quote/[id]/page.js",
+  "/random/page": "app/random/page.js",
+  "/page": "app/page.js"
+}
